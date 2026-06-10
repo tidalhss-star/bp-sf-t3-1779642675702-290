@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title><![CDATA[AI트렌드]]></title>
+  <link>https://sf-t3-1779642675702-290.vercel.app</link>
+  <description><![CDATA[AI트렌드 - 화곡 셔츠룸 관련 최신 소식 및 가이드]]></description>
+  <language>ko</language>
+  <pubDate>Wed, 10 Jun 2026 18:49:07 GMT</pubDate>
+  <lastBuildDate>Wed, 10 Jun 2026 18:49:07 GMT</lastBuildDate>
+  <atom:link href="https://sf-t3-1779642675702-290.vercel.app/feed.xml" rel="self" type="application/rss+xml" />
+  
+    <item>
+      <title><![CDATA[화곡 셔츠룸 vs 화곡 셔츠룸 비교 — 어디가 더 좋을까? 비교 분석]]></title>
+      <link>https://sf-t3-1779642675702-290.vercel.app/posts/compare-002-1yzr1at.html</link>
+      <guid isPermaLink="true">https://sf-t3-1779642675702-290.vercel.app/posts/compare-002-1yzr1at.html</guid>
+      <description><![CDATA[### 제목: 창작한 제목 "LLaMa 3.1의 RoPE theta 조정, Perplexity와 어텐션 패턴의 변화에 대한 극단적 실험" #### [POST DNA 9889b0fd]관점: 흔한 조언이 실패하는 조건부터 반례 중심으로 분석구조: cold-open-case]]></description>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[화곡 셔츠룸 처음 알아볼 때 실제로 많이 묻는 질문 5가지]]></title>
+      <link>https://sf-t3-1779642675702-290.vercel.app/posts/qa-001-1yzr1at.html</link>
+      <guid isPermaLink="true">https://sf-t3-1779642675702-290.vercel.app/posts/qa-001-1yzr1at.html</guid>
+      <description><![CDATA[제목: 창작한 제목: "Llama 3.1 RoPE theta 변화에 따른 Perplexity 변동과 특정 토큰 어텐션 패턴 분석" ### 소제목1. Llama 3.1 RoPE theta 변화 배경 이해2. Perplexity 변동과 RoPE theta 관계 검토3. 특]]></description>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
+    </item>
+</channel>
+</rss>
